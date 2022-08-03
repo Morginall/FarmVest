@@ -1,0 +1,84 @@
+@font-face {
+  font-family: 'decor';
+  src:  url('fonts/decor.eot?5v8568');
+  src:  url('fonts/decor.eot?5v8568#iefix') format('embedded-opentype'),
+    url('fonts/decor.ttf?5v8568') format('truetype'),
+    url('fonts/decor.woff?5v8568') format('woff'),
+    url('fonts/decor.svg?5v8568#decor') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"]::before, [class*=" icon-"]::before {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'decor' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-0001:before {
+  content: "\e90e";
+}
+.icon-0002:before {
+  content: "\e90f";
+}
+.icon-0003:before {
+  content: "\e910";
+}
+.icon-0004:before {
+  content: "\e911";
+}
+.icon-0005:before {
+  content: "\e929";
+}
+.icon-twitter:before {
+  content: "\e90c";
+}
+.icon-instagram:before {
+  content: "\e90d";
+}
+.icon-facebook:before {
+  content: "\e90b";
+}
+.icon-unie900:before {
+  content: "\e900";
+}
+.icon-coinbag:before {
+  content: "\e901";
+}
+.icon-emptypoint:before {
+  content: "\e902";
+}
+.icon-emptystar:before {
+  content: "\e903";
+}
+.icon-equaln:before {
+  content: "\e904";
+}
+.icon-point:before {
+  content: "\e905";
+}
+.icon-star:before {
+  content: "\e906";
+}
+.icon-works01:before {
+  content: "\e907";
+}
+.icon-works02:before {
+  content: "\e908";
+}
+.icon-works03:before {
+  content: "\e909";
+}
+.icon-works04:before {
+  content: "\e90a";
+}
