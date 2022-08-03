@@ -257,7 +257,7 @@ html.light body .decor-main span {
 html.dark .main__theme {
   width: 35px;
   height: 35px;
-  background: url(img/icons/sun.svg);
+  background: url("img/icons/sun.svg");
 }
 
 html.light .main__theme {
