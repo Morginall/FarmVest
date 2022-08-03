@@ -257,13 +257,13 @@ html.light body .decor-main span {
 html.dark .main__theme {
   width: 35px;
   height: 35px;
-  background: url("img/icons/sun.svg");
+  background: url("img/sun.svg");
 }
 
 html.light .main__theme {
   width: 35px;
   height: 35px;
-  background: url(img/icons/moon.svg);
+  background: url(img/moon.svg);
 }
 
 .main__reset {
