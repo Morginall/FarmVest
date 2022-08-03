@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'decor';
-  src:  url('fonts/decor.eot?5v8568');
-  src:  url('fonts/decor.eot?5v8568#iefix') format('embedded-opentype'),
-    url('fonts/decor.ttf?5v8568') format('truetype'),
-    url('fonts/decor.woff?5v8568') format('woff'),
-    url('fonts/decor.svg?5v8568#decor') format('svg');
+  src:  url('/fonts/decor.eot?5v8568');
+  src:  url('/fonts/decor.eot?5v8568#iefix') format('embedded-opentype'),
+    url('/fonts/decor.ttf?5v8568') format('truetype'),
+    url('/fonts/decor.woff?5v8568') format('woff'),
+    url('/fonts/decor.svg?5v8568#decor') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
