@@ -731,7 +731,6 @@ main {
 .getstarted__text-block:not(:last-child) {
   margin-bottom: 2.5vw;
   position: relative;
-  z-index: 5;
 }
 .getstarted .text-block__title-header:not(:last-child) {
   text-align: center;
